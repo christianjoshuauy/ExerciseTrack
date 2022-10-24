@@ -1,2 +1,2 @@
 # ExerciseTrack
-Exercise Tracker
+Exercise Tracker made with MERN Stack
